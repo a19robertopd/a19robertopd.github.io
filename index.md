@@ -21,4 +21,4 @@ La linea de código más util que he aprendido de javaScript estos dos años fue
 ![Logo de mi pagina](./logo.png)
 
 
-Enlace a mi readme : http://github.com/a19robertopd/a19robertopd.github.io/blob/main/README.md
+Enlace a mi readme : https://github.com/nodeca/pica
