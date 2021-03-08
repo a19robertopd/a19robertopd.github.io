@@ -13,7 +13,7 @@ Una vez Miguel Duarte dijo:
 
 
 La linea de código más util que he aprendido de javaScript estos dos años fue :
-` document.getElementById("id")`
+`document.getElementById("id")`
 
 
 [Aquí](https://almostme.giize.com) dejo la página web que he desarrollado para este año
@@ -21,4 +21,4 @@ La linea de código más util que he aprendido de javaScript estos dos años fue
 ![Logo de mi pagina](/images/logo.png)
 
 
-Enlace a mi readme : https://github.com/a19robertopd/a19robertopd.github.io/blob/main/README.md
+Enlace a mi readme : http://github.com/a19robertopd/a19robertopd.github.io/blob/main/README.md
