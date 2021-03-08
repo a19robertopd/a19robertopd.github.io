@@ -18,7 +18,7 @@ La linea de código más util que he aprendido de javaScript estos dos años fue
 
 [Aquí](https://almostme.giize.com) dejo la página web que he desarrollado para este año
 
-![Logo de mi pagina](./images/logo.png)
+![Logo de mi pagina](./logo.png)
 
 
 Enlace a mi readme : http://github.com/a19robertopd/a19robertopd.github.io/blob/main/README.md
