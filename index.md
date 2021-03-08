@@ -21,4 +21,4 @@ La linea de código más util que he aprendido de javaScript estos dos años fue
 ![Logo de mi pagina](./logo.png)
 
 
-Enlace al [README](./README.md)
+Enlace al [README](./contenido.md)
